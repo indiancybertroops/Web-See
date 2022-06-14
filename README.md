@@ -37,7 +37,7 @@ Web-See is Tool For Checkout Status Of Urls in Mass Its For Bug Bounty Hunters A
 >To Check Mass Url Status Code
 
 # Main Web-See Image
-![](dorkey.png)
+![](Screenshot_20220615_000727.png)
 # Installation :
 > clone via git clone
 
