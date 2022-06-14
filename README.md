@@ -1,5 +1,11 @@
 # Web-See
 Web-See is Tool For Checkout Status Of Urls in Mass Its For Bug Bounty Hunters And Black Hat Hackers It Will Save Your Valuable Time  Script is Designed By Indian Cyber Troops
+## Filter
+Filter results by selecting status codes, redirect types, or search for specific request URLs.
+## Redirect
+Get insight and a visual representation of a maximum of ten redirects. Check details for each request URL to see the full redirect chain with HTTP response headers, response body and round-trip times.
+## Easy Input 
+Paste Unlimited URLs and check status codes and redirect chains in one batch. By default HTTP URLs will be checked when the protocol is missing. You can change this to HTTPS in the settings.
 
 ## Designed By : Cypher | K. Sharma | Vivek
 <p>
