@@ -60,23 +60,19 @@ chmod +777 *
 sudo bash Web-See.sh
 ```
 
-
-
 # Github Status
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=indiancybertroops&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/indiancybertroops "Stats")<br>
 
 ## Contact Us: 
 
-
 >Instagram
-https://instagram.com/krishanuIND
+https://instagram.com/krishanuIND  
+
 >Instagram
 https://instagram.com/Indiancybertroops
 
-
 >Twitter
 https://twitter.com/krishanuIND
-
 
 >Github
 https://github.com/indiancybertroops
@@ -84,4 +80,4 @@ https://github.com/indiancybertroops
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases. We Are Not Responsible For Damage Caused By Tool***
 
-[!] legal disclaimer: Usage of DorKey for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+**legal disclaimer:** *Usage of Web-See for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.*
